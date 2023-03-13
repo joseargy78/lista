@@ -59,22 +59,6 @@ http://realetv.ddns.net:80/play/xXG9WbhyfKjDsjJcpT1UZmNte8uj37BqpW31UCgZRV-u58v4
 http://22623401717321068.stonehuge.xyz:80/play/va04222/2798754/321068.ts
 #EXTINF:-1 tvg-id="vamos.es" tvg-name="ES: #VAMOS FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/VAMOSD" group-title="ES   MOVISTAR+",ES: #VAMOS FHD
 http://22623401717321071.stonehuge.xyz:80/play/va04222/2798754/321071.ts
-#EXTINF:-1 xui-id="840665" tvg-id="" tvg-name="ZKS | Estrenos 1" tvg-logo="http://newevo.giize.com:80/images/1b832e5e96ab52b8ca2dedf30bbfdae5.png" group-title="⚡ CINE ESTRENOS TAQUILLAS ES ⚡",ZKS | Estrenos 1
-http://realetv.ddns.net:80/play/xXG9WbhyfKjDsjJcpT1UZraq0STpV2f5wOkh_1v8bsEcVJWXCdERr3oHQV-mfpup/ts
-#EXTINF:-1 xui-id="840666" tvg-id="" tvg-name="ZKS | Estrenos 2" tvg-logo="http://newevo.giize.com:80/images/1b832e5e96ab52b8ca2dedf30bbfdae5.png" group-title="⚡ CINE ESTRENOS TAQUILLAS ES ⚡",ZKS | Estrenos 2
-http://realetv.ddns.net:80/play/xXG9WbhyfKjDsjJcpT1UZraq0STpV2f5wOkh_1v8bsGtXpY2F5xaT6kPcGy_gf7Q/ts
-#EXTINF:-1 xui-id="840667" tvg-id="" tvg-name="ZKS | Estrenos 3" tvg-logo="http://newevo.giize.com:80/images/1b832e5e96ab52b8ca2dedf30bbfdae5.png" group-title="⚡ CINE ESTRENOS TAQUILLAS ES ⚡",ZKS | Estrenos 3
-http://realetv.ddns.net:80/play/xXG9WbhyfKjDsjJcpT1UZraq0STpV2f5wOkh_1v8bsF3MztveJzrdLJGqpXmadXv/ts
-#EXTINF:-1 xui-id="840668" tvg-id="" tvg-name="ZKS | Estrenos 4" tvg-logo="http://newevo.giize.com:80/images/1b832e5e96ab52b8ca2dedf30bbfdae5.png" group-title="⚡ CINE ESTRENOS TAQUILLAS ES ⚡",ZKS | Estrenos 4
-http://realetv.ddns.net:80/play/xXG9WbhyfKjDsjJcpT1UZraq0STpV2f5wOkh_1v8bsHea3YPvf3-KfCIDpIg1G3Z/ts
-#EXTINF:-1 xui-id="840669" tvg-id="" tvg-name="ZKS | Estrenos 5" tvg-logo="http://newevo.giize.com:80/images/1b832e5e96ab52b8ca2dedf30bbfdae5.png" group-title="⚡ CINE ESTRENOS TAQUILLAS ES ⚡",ZKS | Estrenos 5
-http://realetv.ddns.net:80/play/xXG9WbhyfKjDsjJcpT1UZraq0STpV2f5wOkh_1v8bsFsVEsBqIez_oQcRG4xOFtS/ts
-#EXTINF:-1 xui-id="840670" tvg-id="" tvg-name="ZKS | Estrenos 6" tvg-logo="http://newevo.giize.com:80/images/1b832e5e96ab52b8ca2dedf30bbfdae5.png" group-title="⚡ CINE ESTRENOS TAQUILLAS ES ⚡",ZKS | Estrenos 6
-http://realetv.ddns.net:80/play/xXG9WbhyfKjDsjJcpT1UZmwP69aer6IJYDr_-zuSS1fTdlRUpWxIbawwhbDKp1Wx/ts
-#EXTINF:-1 xui-id="840671" tvg-id="" tvg-name="ZKS | Estrenos 7" tvg-logo="http://newevo.giize.com:80/images/1b832e5e96ab52b8ca2dedf30bbfdae5.png" group-title="⚡ CINE ESTRENOS TAQUILLAS ES ⚡",ZKS | Estrenos 7
-http://realetv.ddns.net:80/play/xXG9WbhyfKjDsjJcpT1UZmwP69aer6IJYDr_-zuSS1eLvNeIl8zV2F_-bgMFkGP4/ts
-#EXTINF:-1 xui-id="840672" tvg-id="" tvg-name="ZKS | Estrenos 8" tvg-logo="http://newevo.giize.com:80/images/1b832e5e96ab52b8ca2dedf30bbfdae5.png" group-title="⚡ CINE ESTRENOS TAQUILLAS ES ⚡",ZKS | Estrenos 8
-http://realetv.ddns.net:80/play/xXG9WbhyfKjDsjJcpT1UZmwP69aer6IJYDr_-zuSS1fR88DeDhGVnpr0DRrP-c6v/ts
 #EXTINF:-1 tvg-id="M. ACCION FHD" tvg-name="ES: M+ ACCION FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPACCI" group-title="ES   MOVISTAR+",ES: M+ ACCION FHD
 http://22623401717321305.stonehuge.xyz:80/play/va04222/2798754/321305.ts
 ##EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="ES: M+ ACCIÂ©N HD" tvg-logo="" group-title="ES   MOVISTAR+",ES: M+ ACCIÂ©N HD
