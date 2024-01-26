@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LA 1" tvg-name="ES: LA 1 FHD" tvg-logo="https://miguia.tv/channels/big_157.png" group-title="ES   MOVISTAR+",ES: LA 1 FHD
+http://445727241777321276.ofd0126.xyz:80/play/Vi425200/f8x@9KvKnwV/321276.ts
+#EXTINF:-1 tvg-id="LA 1" tvg-name="ES: LA 1 HD" tvg-logo="https://miguia.tv/channels/big_157.png" group-title="ES   MOVISTAR+",ES: LA 1 HD
+http://445727241777321277.ofd0126.xyz:80/play/Vi425200/f8x@9KvKnwV/321277.ts
+#EXTINF:-1 tvg-id="LA 1" tvg-name="ES: LA 1 SD" tvg-logo="https://miguia.tv/channels/big_157.png" group-title="ES   MOVISTAR+",ES: LA 1 SD
+http://445727241777321278.ofd0126.xyz:80/play/Vi425200/f8x@9KvKnwV/321278.ts
+#EXTINF:-1 tvg-id="la2.es" tvg-name="ES: LA 2 FHD" tvg-logo="https://miguia.tv/channels/big_99.png" group-title="ES   MOVISTAR+",ES: LA 2 FHD
+http://445727241777321279.ofd0126.xyz:80/play/Vi425200/f8x@9KvKnwV/321279.ts
+#EXTINF:-1 tvg-id="la2.es" tvg-name="ES: LA 2 HD" tvg-logo="https://miguia.tv/channels/big_99.png" group-title="ES   MOVISTAR+",ES: LA 2 HD
+http://445727241777321280.ofd0126.xyz:80/play/Vi425200/f8x@9KvKnwV/321280.ts
+#EXTINF:-1 tvg-id="la2.es" tvg-name="ES: LA 2 SD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/LA2" group-title="ES   MOVISTAR+",ES: LA 2 SD
+http://445727241777321281.ofd0126.xyz:80/play/Vi425200/f8x@9KvKnwV/321281.ts
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="ES: ANTENA 3 FHD" tvg-logo="https://miguia.tv/channels/big_10.png" group-title="ES   MOVISTAR+",ES: ANTENA 3 FHD
+http://445727241777321105.ofd0126.xyz:80/play/Vi425200/f8x@9KvKnwV/321105.ts
